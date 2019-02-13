@@ -12,7 +12,7 @@ client.on('ready', () => {
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(` 🌚🌚 `,"http://twitch.tv/Death Shop")
-client.user.setStatus("Online")
+client.user.setStatus("dnd")
 });
 
 
