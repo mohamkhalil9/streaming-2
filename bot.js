@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Retir'ed ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` 👋🏻💔ألحب = موت على قيد ألحيآة👋🏻💔 `,"http://twitch.tv/Death Shop")
+client.user.setGame(` اعتني بها جيدا ياصاحب النصيب فانا مازلت احبها👋💔 `,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
